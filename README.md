@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Bernard Mwaura</h1>
-<h3 align="center">a Data Scientist from Nairobi,Kenya.</h3>
+<h3 align="center">Data Scientist currently located in Nairobi,Kenya.</h3>
 
 - 🔭 I’m currently working on **building real-world ML projects**
 
